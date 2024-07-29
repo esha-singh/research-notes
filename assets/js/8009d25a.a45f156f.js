@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresearch_notes=self.webpackChunkresearch_notes||[]).push([[8190],{3451:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/research-notes/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
