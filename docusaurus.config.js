@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Esha Singh',
+  title: 'Esha Singh Research',
   tagline: 'Research Notes',
   favicon: 'img/favicon.ico',
 
